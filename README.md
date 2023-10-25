@@ -7,4 +7,3 @@ Program:
 1. Read Lehman pdf
 2. Ask to summarize
 3. Ask 10 main points
-4. Ask beamer latex presentation 
